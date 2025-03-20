@@ -172,6 +172,7 @@ GamerHub is released under the [MIT License](https://opensource.org/licenses/MIT
 
 We would like to thank the following individuals and organizations for their contributions to GamerHub:
 
+
 - GamerHub Engineering Manager Caleb Lucas for his support and encouragement
 - Our dedicated community of gamers and developers for their valuable feedback and support.
 
